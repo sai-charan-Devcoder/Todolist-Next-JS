@@ -1,2 +1,2 @@
-# next-js-todolist
+# Todolist-NextJS
 TodoList  NextJs
