@@ -1,3 +1,11 @@
+This is an TodoList-Appliation, developed using NextJs...
+
+Here Events are added for creating a TODO .
+
+This TODO is Added to the List and prompted on the console.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
